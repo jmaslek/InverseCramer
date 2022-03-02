@@ -35,6 +35,6 @@ df["Company"] = df.apply(lambda x: x.Company.replace(f"({x.Symbol})", ""), axis=
 df["InverseCramer"] = df["Recommendation"].apply(lambda x: ["Buy", "Sell"][x == "Buy"])
 date = df["Date"][0]
 
-df.to_csv(f"data/{date}.csv")
+df.to_csv(f"daily/{date}.csv")
 
 
