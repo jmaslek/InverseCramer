@@ -15,7 +15,7 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install pandas bs4 requests
+          pip install pandas bs4 requests numpy lxml
       - name: execute scrape daily cramer # run the run.py to get the latest data
         run: |
           python DailyCramer.py
