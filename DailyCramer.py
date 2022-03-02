@@ -3,7 +3,6 @@ import re
 import pandas as pd
 import requests
 import numpy as np
-import yfinance as yf
 from bs4 import BeautifulSoup
 
 
