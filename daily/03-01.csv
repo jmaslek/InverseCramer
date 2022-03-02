@@ -1,0 +1,10 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Academy Sports and Outdoo ,03/01,30.65,ASO,Buy,Sell
+1,Salesforce ,03/01,208.89,CRM,Buy,Sell
+2,Coterra Energy ,03/01,24.36,CTRA,Buy,Sell
+3,Domino's Pizza ,03/01,432.21,DPZ,Buy,Sell
+4,Nio ,03/01,21.87,NIO,Sell,Buy
+5,Origin Materials ,03/01,5.51,ORGN,Sell,Buy
+6,Rent-A-Center ,03/01,27.08,RCII,Sell,Buy
+7,B. Riley Financial ,03/01,59.07,RILY,Sell,Buy
+8,Stem ,03/01,9.33,STEM,Sell,Buy
