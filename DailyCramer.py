@@ -32,7 +32,7 @@ df = df.drop(columns=["Segment", "Call", "Portfolio"])
 df["Recommendation"] = rec
 df["Company"] = df.apply(lambda x: x.Company.replace(f"({x.Symbol})", ""), axis=1)
 df["InverseCramer"] = df["Recommendation"].apply(lambda x: ["Buy", "Sell"][x == "Buy"])
-date = df["Date"][0]
+date = df["Date"][0].replace("/","-")
 
 df.to_csv(f"daily/{date}.csv")
 
