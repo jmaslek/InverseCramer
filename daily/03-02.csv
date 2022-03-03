@@ -1,0 +1,20 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,AEO ,03/02,21.33,AEO,Buy,Sell
+1,Cemig ,03/02,2.61,CIG,Buy,Sell
+2,DigitalBridge ,03/02,7.4,DBRG,Sell,Buy
+3,Dow ,03/02,59.2,DOW,Buy,Sell
+4,Ford Motor ,03/02,18.1,F,Buy,Sell
+5,Foot Locker ,03/02,30.98,FL,Sell,Buy
+6,Innovative Industrial Pro ,03/02,190.26,IIPR,Buy,Sell
+7,International Paper ,03/02,42.01,IP,Buy,Sell
+8,Nordstrom ,03/02,26.93,JWN,Buy,Sell
+9,Kontoor Brands ,03/02,48.03,KTB,Buy,Sell
+10,Masimo ,03/02,153.63,MASI,Buy,Sell
+11,Morgan Stanley ,03/02,88.38,MS,Buy,Sell
+12,Norwegian Cruise Line ,03/02,19.06,NCLH,Buy,Sell
+13,Newell Brands ,03/02,23.68,NWL,Buy,Sell
+14,Okta ,03/02,182.7,OKTA,Buy,Sell
+15,Pfizer ,03/02,47.7,PFE,Buy,Sell
+16,Snowflake ,03/02,264.69,SNOW,Buy,Sell
+17,Simon Property Group ,03/02,138.77,SPG,Buy,Sell
+18,Tesla ,03/02,879.89,TSLA,Sell,Buy
