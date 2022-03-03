@@ -1,0 +1,26 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,01/28,170.33,AAPL,Buy,Sell
+1,AbbVie ,01/28,137.92,ABBV,Buy,Sell
+2,Advanced Micro Devices ,01/28,105.24,AMD,Buy,Sell
+3,Asana ,01/28,48.0,ASAN,Sell,Buy
+4,Bristol-Myers Squibb ,01/28,64.91,BMY,Buy,Sell
+5,Boot Barn ,01/28,85.69,BOOT,Buy,Sell
+6,Ford Motor ,01/28,19.54,F,Buy,Sell
+7,Meta ,01/28,301.71,FB,Buy,Sell
+8,Greenbrier Companies ,01/28,38.8,GBX,Buy,Sell
+9,General Motors ,01/28,50.24,GM,Buy,Sell
+10,Hillenbrand ,01/28,45.78,HI,Buy,Sell
+11,Honeywell ,01/28,201.99,HON,Buy,Sell
+12,Robinhood ,01/28,12.73,HOOD,Sell,Buy
+13,Herc Holdings ,01/28,154.5,HRI,Buy,Sell
+14,Eli Lilly ,01/28,245.1,LLY,Buy,Sell
+15,Nucor ,01/28,99.79,NUE,Buy,Sell
+16,NXP Semiconductors ,01/28,189.45,NXPI,Buy,Sell
+17,Otis Worldwide ,01/28,82.77,OTIS,Buy,Sell
+18,PayPal ,01/28,163.52,PYPL,Buy,Sell
+19,Regeneron Pharmaceuticals ,01/28,624.92,REGN,Buy,Sell
+20,Rockwell Automation ,01/28,284.6,ROK,Buy,Sell
+21,Starbucks ,01/28,97.21,SBUX,Buy,Sell
+22,ThredUp ,01/28,8.28,TDUP,Sell,Buy
+23,United Rentals ,01/28,317.77,URI,Buy,Sell
+24,Exxon Mobil ,01/28,75.28,XOM,Buy,Sell

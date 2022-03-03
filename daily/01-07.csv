@@ -1,0 +1,17 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,01/07,172.17,AAPL,Buy,Sell
+1,Albertsons ,01/07,31.21,ACI,Buy,Sell
+2,BlackRock ,01/07,892.27,BLK,Buy,Sell
+3,Citigroup ,01/07,65.78,C,Buy,Sell
+4,Cisco Systems ,01/07,61.13,CSCO,Buy,Sell
+5,CVS Health ,01/07,104.19,CVS,Buy,Sell
+6,Delta Air Lines ,01/07,41.51,DAL,Sell,Buy
+7,Dell ,01/07,57.99,DELL,Buy,Sell
+8,IBM ,01/07,134.83,IBM,Buy,Sell
+9,JPMorgan Chase ,01/07,167.16,JPM,Buy,Sell
+10,KB Home ,01/07,39.76,KBH,Buy,Sell
+11,Microsoft ,01/07,314.04,MSFT,Buy,Sell
+12,Oracle ,01/07,87.51,ORCL,Buy,Sell
+13,Roblox ,01/07,84.37,RBLX,Buy,Sell
+14,Wells Fargo ,01/07,54.77,WFC,Buy,Sell
+15,WSFS Financial ,01/07,55.26,WSFS,Buy,Sell

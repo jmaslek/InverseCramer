@@ -1,0 +1,10 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Alibaba ,01/12,137.41,BABA,Sell,Buy
+1,Chargepoint ,01/12,15.99,CHPT,Sell,Buy
+2,Devon Energy ,01/12,49.9,DVN,Buy,Sell
+3,Prothena ,01/12,37.47,PRTA,Buy,Sell
+4,QuantumScape ,01/12,20.94,QS,Sell,Buy
+5,Rio Tinto ,01/12,76.07,RIO,Buy,Sell
+6,Squarespace ,01/12,30.21,SQSP,Sell,Buy
+7,Vale ,01/12,15.55,VALE,Sell,Buy
+8,ViacomCBS ,01/12,34.97,VIAC,Buy,Sell

@@ -1,0 +1,20 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,AEO ,01/25,23.65,AEO,Buy,Sell
+1,AGNC Investment ,01/25,15.0,AGNC,Sell,Buy
+2,AMC Entertainment ,01/25,16.02,AMC,Sell,Buy
+3,Digital Turbine ,01/25,39.58,APPS,Sell,Buy
+4,American Express ,01/25,173.11,AXP,Buy,Sell
+5,Cleveland-Cliffs ,01/25,16.85,CLF,Buy,Sell
+6,CSX ,01/25,33.72,CSX,Sell,Buy
+7,General Electric ,01/25,91.11,GE,Sell,Buy
+8,GameStop ,01/25,99.79,GME,Sell,Buy
+9,IBM ,01/25,136.1,IBM,Buy,Sell
+10,Johnson & Johnson ,01/25,167.63,JNJ,Buy,Sell
+11,JPMorgan Chase ,01/25,146.53,JPM,Sell,Buy
+12,Logitech International ,01/25,77.78,LOGI,Buy,Sell
+13,Netflix ,01/25,366.42,NFLX,Sell,Buy
+14,Raytheon Technologies ,01/25,90.31,RTX,Buy,Sell
+15,Schrodinger ,01/25,27.59,SDGR,Sell,Buy
+16,Union Pacific ,01/25,244.12,UNP,Buy,Sell
+17,Verizon ,01/25,52.9,VZ,Buy,Sell
+18,Weber ,01/25,10.56,WEBR,Buy,Sell

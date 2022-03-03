@@ -1,0 +1,13 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Crestwood Equity Partners ,02/23,28.73,CEQP,Buy,Sell
+1,Energy Transfer ,02/23,9.78,ET,Buy,Sell
+2,Goldman Sachs ,02/23,341.19,GS,Buy,Sell
+3,Home Depot ,02/23,308.45,HD,Sell,Buy
+4,Lowe's ,02/23,215.09,LOW,Buy,Sell
+5,Lumen Technologies ,02/23,9.62,LUMN,Sell,Buy
+6,Palo Alto Networks ,02/23,477.61,PANW,Buy,Sell
+7,Peloton ,02/23,27.0,PTON,Buy,Sell
+8,SentinelOne ,02/23,34.09,S,Sell,Buy
+9,Southern Copper ,02/23,66.25,SCCO,Buy,Sell
+10,Molson Coors ,02/23,50.81,TAP,Buy,Sell
+11,Vertiv ,02/23,12.38,VRT,Sell,Buy

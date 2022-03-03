@@ -1,0 +1,29 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,01/03,182.01,AAPL,Buy,Sell
+1,AbbVie ,01/03,135.42,ABBV,Buy,Sell
+2,Abbott Laboratories ,01/03,139.04,ABT,Buy,Sell
+3,Activision Blizzard ,01/03,67.42,ATVI,Sell,Buy
+4,Bank of America ,01/03,46.18,BAC,Buy,Sell
+5,Citrix Systems ,01/03,98.26,CTXS,Sell,Buy
+6,Chevron ,01/03,119.26,CVX,Buy,Sell
+7,Consolidated Edison ,01/03,85.13,ED,Buy,Sell
+8,Emerson Electric ,01/03,91.76,EMR,Buy,Sell
+9,Fortinet ,01/03,333.12,FTNT,Sell,Buy
+10,Global Payments ,01/03,141.7,GPN,Sell,Buy
+11,Home Depot ,01/03,408.64,HD,Buy,Sell
+12,IPG Photonics ,01/03,173.81,IPGP,Buy,Sell
+13,Johnson & Johnson ,01/03,171.54,JNJ,Buy,Sell
+14,Lennar ,01/03,111.81,LEN,Buy,Sell
+15,The Lion Electric Company ,01/03,9.99,LEV,Buy,Sell
+16,Linde ,01/03,338.64,LIN,Buy,Sell
+17,Las Vegas Sands ,01/03,38.85,LVS,Sell,Buy
+18,MarketAxess ,01/03,396.83,MKTX,Sell,Buy
+19,NextEra Energy ,01/03,91.66,NEE,Buy,Sell
+20,Cloudflare ,01/03,126.16,NET,Buy,Sell
+21,New Fortress Energy ,01/03,25.03,NFE,Sell,Buy
+22,NVIDIA ,01/03,301.21,NVDA,Buy,Sell
+23,Penn National Gaming ,01/03,50.64,PENN,Sell,Buy
+24,Toll Brothers ,01/03,70.24,TOL,Buy,Sell
+25,Walmart ,01/03,144.65,WMT,Buy,Sell
+26,Wynn Resorts ,01/03,87.77,WYNN,Sell,Buy
+27,Zoom Video Communications ,01/03,184.26,ZM,Buy,Sell

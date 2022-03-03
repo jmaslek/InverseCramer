@@ -1,0 +1,26 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Applied Materials ,02/01,138.61,AMAT,Buy,Sell
+1,Brunswick ,02/01,91.96,BC,Buy,Sell
+2,Coinbase Global ,02/01,197.73,COIN,Sell,Buy
+3,Camping World ,02/01,34.38,CWH,Buy,Sell
+4,DraftKings ,02/01,23.68,DKNG,Buy,Sell
+5,Edwards Lifesciences ,02/01,108.37,EW,Buy,Sell
+6,Exact Sciences ,02/01,77.4,EXAS,Buy,Sell
+7,Ford Motor ,02/01,20.66,F,Buy,Sell
+8,Golar LNG ,02/01,14.95,GLNG,Buy,Sell
+9,Corning ,02/01,42.17,GLW,Buy,Sell
+10,Robinhood ,02/01,14.65,HOOD,Buy,Sell
+11,Iron Mountain ,02/01,46.12,IRM,Buy,Sell
+12,Intuitive Surgical ,02/01,286.51,ISRG,Buy,Sell
+13,Intellia Therapeutics ,02/01,99.8,NTLA,Buy,Sell
+14,Planet Labs ,02/01,6.41,PL,Sell,Buy
+15,Roku ,02/01,166.26,ROKU,Buy,Sell
+16,Spotify ,02/01,203.62,SPOT,Buy,Sell
+17,Stryker ,02/01,248.6,SYK,Buy,Sell
+18,Teladoc ,02/01,80.34,TDOC,Buy,Sell
+19,Tesla ,02/01,931.25,TSLA,Buy,Sell
+20,Twilio ,02/01,210.57,TWLO,Buy,Sell
+21,Unity Software ,02/01,107.8,U,Buy,Sell
+22,United Parcel Service ,02/01,230.69,UPS,Buy,Sell
+23,Wells Fargo ,02/01,55.6,WFC,Buy,Sell
+24,Zoom Video Communications ,02/01,155.68,ZM,Buy,Sell

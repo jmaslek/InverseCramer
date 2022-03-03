@@ -1,0 +1,16 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Bank of America ,01/19,46.44,BAC,Buy,Sell
+1,Commercial Vehicle Group ,01/19,8.01,CVGI,Buy,Sell
+2,Chevron ,01/19,128.91,CVX,Buy,Sell
+3,DuPont ,01/19,81.58,DD,Sell,Buy
+4,Devon Energy ,01/19,48.93,DVN,Buy,Sell
+5,Diamondback Energy ,01/19,125.71,FANG,Buy,Sell
+6,FREYR Battery ,01/19,9.7,FREY,Sell,Buy
+7,Southwest Airlines ,01/19,44.43,LUV,Sell,Buy
+8,Morgan Stanley ,01/19,95.73,MS,Buy,Sell
+9,Procter & Gamble ,01/19,162.0,PG,Buy,Sell
+10,Pioneer Natural Resources ,01/19,219.06,PXD,Buy,Sell
+11,Spirit Airlines ,01/19,22.68,SAVE,Buy,Sell
+12,SoFi Technologies ,01/19,13.71,SOFI,Buy,Sell
+13,UnitedHealth Group ,01/19,462.52,UNH,Buy,Sell
+14,Vector Group ,01/19,11.59,VGR,Sell,Buy

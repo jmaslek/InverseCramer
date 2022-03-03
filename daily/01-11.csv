@@ -1,0 +1,17 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,01/11,175.08,AAPL,Buy,Sell
+1,Advanced Micro Devices ,01/11,137.31,AMD,Buy,Sell
+2,Atkore International ,01/11,105.9,ATKR,Buy,Sell
+3,Boeing ,01/11,216.02,BA,Buy,Sell
+4,BioMarin ,01/11,88.99,BMRN,Buy,Sell
+5,GrowGeneration ,01/11,11.47,GRWG,Sell,Buy
+6,InMode ,01/11,54.95,INMD,Buy,Sell
+7,Li-Cycle Holdings ,01/11,8.99,LICY,Sell,Buy
+8,Netflix ,01/11,540.84,NFLX,Sell,Buy
+9,NovoCure ,01/11,68.37,NVCR,Buy,Sell
+10,NVIDIA ,01/11,278.17,NVDA,Buy,Sell
+11,Rio Tinto ,01/11,74.42,RIO,Buy,Sell
+12,Rivian ,01/11,83.55,RIVN,Sell,Buy
+13,Star Bulk Carriers ,01/11,23.06,SBLK,Sell,Buy
+14,Virgin Galactic ,01/11,12.39,SPCE,Sell,Buy
+15,Zoetis ,01/11,212.8,ZTS,Buy,Sell

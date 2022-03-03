@@ -1,0 +1,26 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Airbnb ,02/25,155.09,ABNB,Buy,Sell
+1,Best Buy ,02/25,95.83,BBY,Sell,Buy
+2,Ciena ,02/25,68.7,CIEN,Sell,Buy
+3,Costco ,02/25,517.49,COST,Buy,Sell
+4,Salesforce ,02/25,208.09,CRM,Buy,Sell
+5,Cisco Systems ,02/25,56.04,CSCO,Buy,Sell
+6,DoorDash ,02/25,100.34,DASH,Buy,Sell
+7,Dell ,02/25,51.46,DELL,Sell,Buy
+8,Domino's Pizza ,02/25,429.98,DPZ,Buy,Sell
+9,Devon Energy ,02/25,55.2,DVN,Buy,Sell
+10,Etsy ,02/25,148.94,ETSY,Buy,Sell
+11,Cedar Fair ,02/25,57.07,FUN,Buy,Sell
+12,Barrick Gold ,02/25,22.56,GOLD,Buy,Sell
+13,HP ,02/25,34.45,HPQ,Sell,Buy
+14,Hertz Global Holdings ,02/25,20.81,HTZ,Buy,Sell
+15,Kohl's ,02/25,56.88,KSS,Sell,Buy
+16,MP Materials ,02/25,46.85,MP,Buy,Sell
+17,Okta ,02/25,177.37,OKTA,Sell,Buy
+18,Peloton ,02/25,28.19,PTON,Buy,Sell
+19,Roblox ,02/25,50.05,RBLX,Buy,Sell
+20,Snowflake ,02/25,269.42,SNOW,Buy,Sell
+21,Block ,02/25,119.82,SQ,Buy,Sell
+22,Target ,02/25,199.22,TGT,Buy,Sell
+23,Workday ,02/25,225.23,WDAY,Sell,Buy
+24,Zoom Video Communications ,02/25,125.32,ZM,Sell,Buy

@@ -1,0 +1,32 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,01/05,174.92,AAPL,Buy,Sell
+1,AGCO ,01/05,121.86,AGCO,Buy,Sell
+2,Amgen ,01/05,225.14,AMGN,Sell,Buy
+3,Atai Life Sciences ,01/05,6.44,ATAI,Buy,Sell
+4,Boeing ,01/05,213.07,BA,Sell,Buy
+5,Bausch Health ,01/05,27.01,BHC,Buy,Sell
+6,CNH Industrial ,01/05,16.44,CNHI,Buy,Sell
+7,Salesforce ,01/05,227.67,CRM,Buy,Sell
+8,Cisco Systems ,01/05,60.28,CSCO,Buy,Sell
+9,CVS Health ,01/05,105.81,CVS,Buy,Sell
+10,Deere & Company ,01/05,372.05,DE,Buy,Sell
+11,Walt Disney ,01/05,155.19,DIS,Sell,Buy
+12,Doximity ,01/05,49.13,DOCS,Buy,Sell
+13,Enterprise Products Partn ,01/05,22.88,EPD,Buy,Sell
+14,Goldman Sachs ,01/05,398.63,GS,Buy,Sell
+15,Home Depot ,01/05,407.24,HD,Buy,Sell
+16,Honeywell ,01/05,211.06,HON,Buy,Sell
+17,Illumina ,01/05,367.88,ILMN,Buy,Sell
+18,Mastercard ,01/05,373.9,MA,Buy,Sell
+19,McDonald's ,01/05,267.19,MCD,Buy,Sell
+20,Morgan Stanley ,01/05,101.68,MS,Buy,Sell
+21,Microsoft ,01/05,316.38,MSFT,Buy,Sell
+22,NortonLifeLock ,01/05,26.2,NLOK,Buy,Sell
+23,Nucor ,01/05,122.72,NUE,Buy,Sell
+24,NVIDIA ,01/05,276.04,NVDA,Buy,Sell
+25,Palo Alto Networks ,01/05,504.86,PANW,Buy,Sell
+26,Riskified ,01/05,6.73,RSKD,Sell,Buy
+27,SoFi Technologies ,01/05,14.1,SOFI,Sell,Buy
+28,UnitedHealth Group ,01/05,489.69,UNH,Buy,Sell
+29,Walgreens Boots Alliance ,01/05,54.0,WBA,Sell,Buy
+30,Walmart ,01/05,143.92,WMT,Sell,Buy

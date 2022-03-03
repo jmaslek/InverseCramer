@@ -1,0 +1,11 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,American Airlines ,02/22,17.43,AAL,Sell,Buy
+1,AbbVie ,02/22,145.56,ABBV,Buy,Sell
+2,Carrier Global ,02/22,45.29,CARR,Buy,Sell
+3,CRISPR Therapeutics ,02/22,55.66,CRSP,Sell,Buy
+4,Cisco Systems ,02/22,56.3,CSCO,Buy,Sell
+5,Mattel ,02/22,24.15,MAT,Buy,Sell
+6,Palo Alto Networks ,02/22,475.51,PANW,Buy,Sell
+7,Sirius XM Radio ,02/22,6.02,SIRI,Buy,Sell
+8,Uber ,02/22,33.68,UBER,Sell,Buy
+9,Walmart ,02/22,136.45,WMT,Buy,Sell

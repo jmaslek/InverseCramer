@@ -1,0 +1,22 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,01/27,159.22,AAPL,Buy,Sell
+1,AbbVie ,01/27,135.97,ABBV,Buy,Sell
+2,Advanced Micro Devices ,01/27,102.6,AMD,Buy,Sell
+3,Canopy Growth ,01/27,6.85,CGC,Sell,Buy
+4,Traeger ,01/27,8.8,COOK,Buy,Sell
+5,Cerence ,01/27,58.95,CRNC,Buy,Sell
+6,Dole Foods ,01/27,13.0,DOLE,Buy,Sell
+7,Endeavor Group ,01/27,29.63,EDR,Buy,Sell
+8,F45 Training ,01/27,11.49,FXLV,Buy,Sell
+9,Holley ,01/27,11.06,HLLY,Buy,Sell
+10,Intel ,01/27,48.05,INTC,Sell,Buy
+11,Open Lending ,01/27,16.63,LPRO,Buy,Sell
+12,Maxar Technologies ,01/27,24.55,MAXR,Buy,Sell
+13,McCormick ,01/27,98.2,MKC,Buy,Sell
+14,Nucor ,01/27,96.74,NUE,Buy,Sell
+15,NVIDIA ,01/27,219.44,NVDA,Buy,Sell
+16,Perella Weinberg Partners ,01/27,9.57,PWP,Buy,Sell
+17,The Trade Desk ,01/27,60.17,TTD,Sell,Buy
+18,Vista Outdoor ,01/27,36.41,VSTO,Buy,Sell
+19,WW International ,01/27,12.04,WW,Sell,Buy
+20,XPO Fitness ,01/27,15.9,XPOF,Buy,Sell

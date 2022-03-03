@@ -1,0 +1,12 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,02/03,172.9,AAPL,Buy,Sell
+1,Align Technology ,02/03,503.31,ALGN,Buy,Sell
+2,Boeing ,02/03,206.39,BA,Buy,Sell
+3,Estee Lauder ,02/03,303.12,EL,Buy,Sell
+4,e.l.f. Beauty ,02/03,28.52,ELF,Buy,Sell
+5,Meta ,02/03,237.76,FB,Sell,Buy
+6,Honeywell ,02/03,191.74,HON,Buy,Sell
+7,Nextdoor Holdings ,02/03,4.98,KIND,Buy,Sell
+8,Qualcomm ,02/03,179.1,QCOM,Buy,Sell
+9,Rocket Companies ,02/03,11.83,RKT,Sell,Buy
+10,Rattler Midstream LP ,02/03,12.49,RTLR,Buy,Sell

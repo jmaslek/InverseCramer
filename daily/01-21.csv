@@ -1,0 +1,23 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,01/21,162.41,AAPL,Buy,Sell
+1,American Express ,01/21,158.74,AXP,Buy,Sell
+2,Boeing ,01/21,205.44,BA,Sell,Buy
+3,Carrier Global ,01/21,47.8,CARR,Buy,Sell
+4,Caterpillar ,01/21,214.09,CAT,Sell,Buy
+5,Chevron ,01/21,126.91,CVX,Buy,Sell
+6,Cyxtera Technologies ,01/21,10.86,CYXT,Sell,Buy
+7,Digital Realty Trust ,01/21,154.95,DLR,Buy,Sell
+8,GoodRX ,01/21,23.51,GDRX,Sell,Buy
+9,General Electric ,01/21,96.3,GE,Buy,Sell
+10,GrowGeneration ,01/21,7.75,GRWG,Sell,Buy
+11,Halliburton ,01/21,27.54,HAL,Buy,Sell
+12,Huntington Bancshares ,01/21,15.18,HBAN,Buy,Sell
+13,H&R Block ,01/21,21.44,HRB,Sell,Buy
+14,IBM ,01/21,129.35,IBM,Sell,Buy
+15,InMode ,01/21,43.01,INMD,Buy,Sell
+16,Johnson & Johnson ,01/21,164.87,JNJ,Buy,Sell
+17,McDonald's ,01/21,254.59,MCD,Buy,Sell
+18,Microsoft ,01/21,296.03,MSFT,Buy,Sell
+19,Nautilus Biotechnology ,01/21,3.97,NAUT,Sell,Buy
+20,AT&T ,01/21,26.61,T,Buy,Sell
+21,Tesla ,01/21,943.9,TSLA,Buy,Sell

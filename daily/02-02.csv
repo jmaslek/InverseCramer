@@ -1,0 +1,8 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Boxed ,02/02,9.41,BOXD,Sell,Buy
+1,Coterra Energy ,02/02,22.92,CTRA,Buy,Sell
+2,Graphic Packaging Holding ,02/02,18.85,GPK,Buy,Sell
+3,PayPal ,02/02,132.57,PYPL,Sell,Buy
+4,Starbucks ,02/02,97.73,SBUX,Buy,Sell
+5,Thermo Fisher Scientific ,02/02,604.13,TMO,Buy,Sell
+6,Waste Management ,02/02,148.12,WM,Buy,Sell

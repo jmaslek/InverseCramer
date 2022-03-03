@@ -1,0 +1,16 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,01/31,174.78,AAPL,Buy,Sell
+1,Boeing ,01/31,200.24,BA,Sell,Buy
+2,Caterpillar ,01/31,201.56,CAT,Sell,Buy
+3,Cullen Frost Bankers ,01/31,141.01,CFR,Buy,Sell
+4,Chevron ,01/31,131.33,CVX,Sell,Buy
+5,Dover ,01/31,169.91,DOV,Buy,Sell
+6,General Electric ,01/31,94.48,GE,Sell,Buy
+7,Mastercard ,01/31,386.38,MA,Buy,Sell
+8,3M ,01/31,166.02,MMM,Sell,Buy
+9,Norwegian Cruise Line ,01/31,20.83,NCLH,Sell,Buy
+10,Netflix ,01/31,427.14,NFLX,Buy,Sell
+11,ServiceNow ,01/31,585.78,NOW,Buy,Sell
+12,Perficient ,01/31,104.82,PRFT,Sell,Buy
+13,Silvergate Capital ,01/31,107.74,SI,Buy,Sell
+14,Willis Towers Watson ,01/31,233.96,WTW,Buy,Sell

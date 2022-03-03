@@ -1,0 +1,29 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Berkshire Hathaway (BRK.B),02/04,314.99,B,Buy,Sell
+1,Cleveland-Cliffs ,02/04,18.87,CLF,Buy,Sell
+2,Centene ,02/04,80.57,CNC,Buy,Sell
+3,Columbia Sportswear ,02/04,94.59,COLM,Buy,Sell
+4,CVS Health ,02/04,108.49,CVS,Buy,Sell
+5,DuPont ,02/04,76.06,DD,Sell,Buy
+6,Walt Disney ,02/04,142.02,DIS,Buy,Sell
+7,Gilead Sciences ,02/04,63.9,GILD,Sell,Buy
+8,General Motors ,02/04,51.29,GM,Buy,Sell
+9,Goodyear Tire & Rubber ,02/04,21.03,GT,Buy,Sell
+10,Coca-Cola ,02/04,60.96,KO,Buy,Sell
+11,Mattel ,02/04,21.28,MAT,Buy,Sell
+12,Cloudflare ,02/04,103.19,NET,Sell,Buy
+13,ServiceNow ,02/04,577.52,NOW,Buy,Sell
+14,Pepsico ,02/04,172.49,PEP,Buy,Sell
+15,Pfizer ,02/04,53.0,PFE,Buy,Sell
+16,Rivian ,02/04,60.87,RIVN,Sell,Buy
+17,Simon Property Group ,02/04,145.18,SPG,Buy,Sell
+18,AT&T ,02/04,24.08,T,Sell,Buy
+19,Thermo Fisher Scientific ,02/04,594.42,TMO,Buy,Sell
+20,Tyson Foods ,02/04,88.29,TSN,Sell,Buy
+21,Take-Two Interactive ,02/04,175.0,TTWO,Buy,Sell
+22,Twitter ,02/04,36.94,TWTR,Sell,Buy
+23,Under Armour ,02/04,16.43,UA,Buy,Sell
+24,United Continental ,02/04,42.82,UAL,Sell,Buy
+25,Verizon ,02/04,53.31,VZ,Buy,Sell
+26,Waters Corp ,02/04,325.91,WAT,Buy,Sell
+27,Zendesk ,02/04,97.68,ZEN,Sell,Buy

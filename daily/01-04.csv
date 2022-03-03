@@ -1,0 +1,31 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Applied Materials ,01/04,158.36,AMAT,Buy,Sell
+1,AMC Entertainment ,01/04,25.49,AMC,Sell,Buy
+2,Advanced Micro Devices ,01/04,144.42,AMD,Buy,Sell
+3,Apache ,01/04,29.46,APA,Buy,Sell
+4,ASML Holdings ,01/04,779.19,ASML,Buy,Sell
+5,Baidu.com ,01/04,146.53,BIDU,Sell,Buy
+6,DataDog ,01/04,157.76,DDOG,Sell,Buy
+7,Deere & Company ,01/04,371.29,DE,Buy,Sell
+8,Ebix ,01/04,31.4,EBIX,Sell,Buy
+9,Ford Motor ,01/04,24.31,F,Buy,Sell
+10,GameStop ,01/04,148.91,GME,Sell,Buy
+11,Icahn Enterprises ,01/04,52.64,IEP,Sell,Buy
+12,JD.com ,01/04,64.2,JD,Sell,Buy
+13,KLA Corp ,01/04,431.24,KLAC,Buy,Sell
+14,Lucid Group ,01/04,39.41,LCID,Sell,Buy
+15,Mosaic ,01/04,40.5,MOS,Buy,Sell
+16,Marvell Technology ,01/04,88.37,MRVL,Buy,Sell
+17,Okta ,01/04,215.01,OKTA,Sell,Buy
+18,Oppenheimer ,01/04,46.76,OPY,Buy,Sell
+19,Otter Tail ,01/04,68.36,OTTR,Buy,Sell
+20,Peloton ,01/04,33.82,PTON,Sell,Buy
+21,PayPal ,01/04,191.14,PYPL,Buy,Sell
+22,Splunk ,01/04,115.8,SPLK,Sell,Buy
+23,Teladoc ,01/04,91.47,TDOC,Sell,Buy
+24,Atlassian ,01/04,334.99,TEAM,Sell,Buy
+25,T-Mobile US ,01/04,114.06,TMUS,Buy,Sell
+26,Vertex Pharmaceuticals ,01/04,221.86,VRTX,Buy,Sell
+27,Qualtrics ,01/04,31.95,XM,Sell,Buy
+28,Zoom Video Communications ,01/04,179.85,ZM,Buy,Sell
+29,ZScaler ,01/04,281.58,ZS,Sell,Buy

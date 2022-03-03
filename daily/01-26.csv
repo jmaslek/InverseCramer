@@ -1,0 +1,33 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,ArcBest ,01/26,86.61,ARCB,Sell,Buy
+1,American Express ,01/26,175.32,AXP,Buy,Sell
+2,Boeing ,01/26,194.27,BA,Sell,Buy
+3,Bed Bath & Beyond ,01/26,14.15,BBBY,Buy,Sell
+4,Callon Petroleum ,01/26,51.15,CPE,Buy,Sell
+5,Cerence ,01/26,59.24,CRNC,Buy,Sell
+6,Torrid ,01/26,8.31,CURV,Buy,Sell
+7,Dell ,01/26,55.34,DELL,Buy,Sell
+8,Enphase Energy ,01/26,121.75,ENPH,Buy,Sell
+9,Etsy ,01/26,141.3,ETSY,Buy,Sell
+10,F5 Networks ,01/26,202.49,FFIV,Sell,Buy
+11,General Electric ,01/26,89.32,GE,Sell,Buy
+12,HP ,01/26,35.23,HPQ,Buy,Sell
+13,IBM ,01/26,134.26,IBM,Buy,Sell
+14,Jazz Pharmaceuticals ,01/26,133.02,JAZZ,Sell,Buy
+15,Johnson & Johnson ,01/26,168.38,JNJ,Buy,Sell
+16,JPMorgan Chase ,01/26,147.92,JPM,Sell,Buy
+17,3M ,01/26,169.3,MMM,Buy,Sell
+18,Microsoft ,01/26,296.71,MSFT,Buy,Sell
+19,Netflix ,01/26,359.7,NFLX,Sell,Buy
+20,Ollie's Bargain Outlet ,01/26,44.33,OLLI,Buy,Sell
+21,Pinterest ,01/26,26.74,PINS,Buy,Sell
+22,Roblox ,01/26,63.02,RBLX,Buy,Sell
+23,Revolve Group ,01/26,43.69,RVLV,Buy,Sell
+24,Twitter ,01/26,33.62,TWTR,Buy,Sell
+25,Ulta Beauty ,01/26,353.81,ULTA,Buy,Sell
+26,Union Pacific ,01/26,244.88,UNP,Buy,Sell
+27,Upstart ,01/26,96.05,UPST,Buy,Sell
+28,Verizon ,01/26,51.02,VZ,Buy,Sell
+29,Wells Fargo ,01/26,54.14,WFC,Buy,Sell
+30,Qualtrics ,01/26,24.25,XM,Buy,Sell
+31,Zynga ,01/26,8.66,ZNGA,Sell,Buy
