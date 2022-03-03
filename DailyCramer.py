@@ -1,4 +1,5 @@
 import re
+import os
 
 import pandas as pd
 import requests
@@ -43,4 +44,14 @@ date = df["Date"][0].replace("/","-")
 
 df.to_csv(f"daily/{date}.csv")
 
+all_recs = pd.DataFrame()
+for file in os.listdir("daily"):
+    all_recs = pd.concat(
+        [
+        all_recs,
+         pd.read_csv(f"daily/{file}", index_col=0)
+         ]
+    )
+all_recs= all_recs.sort_values(by=["Date","Symbol"]).reset_index(drop=True)
+all_recs.to_csv("AllRecommendations.csv")
 
