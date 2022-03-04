@@ -46,7 +46,8 @@ df.to_csv(f"daily/{date}.csv")
 
 all_recs = pd.DataFrame()
 for file in os.listdir("daily"):
-    all_recs = pd.concat(
+  print(file)
+  all_recs = pd.concat(
         [
         all_recs,
          pd.read_csv(f"daily/{file}", index_col=0)
