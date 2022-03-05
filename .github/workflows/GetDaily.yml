@@ -1,4 +1,5 @@
-on:  
+on:
+  push:
   schedule:
     - cron: '15 1 * * 2-6' 
 
