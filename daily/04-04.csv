@@ -1,0 +1,15 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Advanced Micro Devices ,04/04,110.53,AMD,Buy,Sell
+1,Aurinia Pharmaceuticals ,04/04,12.55,AUPH,Buy,Sell
+2,DoorDash ,04/04,127.21,DASH,Sell,Buy
+3,DocuSign ,04/04,112.28,DOCU,Sell,Buy
+4,KLA Corp ,04/04,367.05,KLAC,Buy,Sell
+5,Kulicke & Soffa Industrie ,04/04,55.5,KLIC,Sell,Buy
+6,Lam Research ,04/04,535.55,LRCX,Buy,Sell
+7,Prospect Capital ,04/04,8.35,PSEC,Sell,Buy
+8,Peloton ,04/04,27.81,PTON,Buy,Sell
+9,Pubmatic ,04/04,27.96,PUBM,Sell,Buy
+10,PayPal ,04/04,121.86,PYPL,Buy,Sell
+11,Roku ,04/04,134.59,ROKU,Sell,Buy
+12,Shopify ,04/04,727.29,SHOP,Buy,Sell
+13,Zoom Video Communications ,04/04,124.28,ZM,Sell,Buy
