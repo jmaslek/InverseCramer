@@ -1,0 +1,13 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Bank of America ,04/06,39.7,BAC,Buy,Sell
+1,Bluelinx Holdings ,04/06,60.41,BXC,Buy,Sell
+2,Cleveland-Cliffs ,04/06,31.09,CLF,Buy,Sell
+3,DigitalOcean ,04/06,53.8,DOCN,Sell,Buy
+4,Douglas Elliman ,04/06,6.88,DOUG,Buy,Sell
+5,Loews Corp ,04/06,63.36,L,Buy,Sell
+6,Norwegian Cruise Line ,04/06,20.68,NCLH,Buy,Sell
+7,Poshmark ,04/06,12.6,POSH,Sell,Buy
+8,Spirit Airlines ,04/06,26.28,SAVE,Sell,Buy
+9,Tutor Perini ,04/06,9.75,TPC,Buy,Sell
+10,Waste Connections ,04/06,141.75,WCN,Sell,Buy
+11,Waste Management ,04/06,161.1,WM,Buy,Sell
