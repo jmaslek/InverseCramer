@@ -1,0 +1,12 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,A.C. Moore Arts & Crafts ,04/07,19.06,ACMR,Sell,Buy
+1,Best Buy ,04/07,92.07,BBY,Buy,Sell
+2,ConAgra Foods ,04/07,34.43,CAG,Buy,Sell
+3,Church & Dwight ,04/07,103.42,CHD,Buy,Sell
+4,Callaway Golf ,04/07,22.19,ELY,Sell,Buy
+5,Acushnet Holdings ,04/07,40.74,GOLF,Buy,Sell
+6,HP ,04/07,40.06,HPQ,Buy,Sell
+7,Hertz Global Holdings ,04/07,21.8,HTZ,Buy,Sell
+8,Eli Lilly ,04/07,308.43,LLY,Buy,Sell
+9,UiPath ,04/07,21.08,PATH,Sell,Buy
+10,Target ,04/07,228.19,TGT,Buy,Sell
