@@ -1,0 +1,19 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,04/11,165.75,AAPL,Sell,Buy
+1,Dollar General ,04/11,240.77,DG,Buy,Sell
+2,Walt Disney ,04/11,130.65,DIS,Buy,Sell
+3,DraftKings ,04/11,16.87,DKNG,Buy,Sell
+4,Darden Restaurants ,04/11,126.54,DRI,Buy,Sell
+5,Editas Medicine ,04/11,17.57,EDIT,Sell,Buy
+6,Expedia ,04/11,177.3,EXPE,Buy,Sell
+7,Meta ,04/11,216.46,FB,Sell,Buy
+8,Five Below ,04/11,173.95,FIVE,Buy,Sell
+9,Hershey Foods ,04/11,223.93,HSY,Buy,Sell
+10,Levi Strauss ,04/11,18.86,LEVI,Buy,Sell
+11,Lululemon Athletica ,04/11,368.74,LULU,Buy,Sell
+12,Marriott International ,04/11,162.45,MAR,Buy,Sell
+13,Altria ,04/11,54.45,MO,Buy,Sell
+14,Netflix ,04/11,348.0,NFLX,Sell,Buy
+15,Nike ,04/11,124.98,NKE,Buy,Sell
+16,SoFi Technologies ,04/11,7.72,SOFI,Sell,Buy
+17,Sysco ,04/11,84.71,SYY,Buy,Sell
