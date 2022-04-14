@@ -1,0 +1,21 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,AGCO ,04/13,138.4,AGCO,Buy,Sell
+1,Applied Materials ,04/13,116.86,AMAT,Buy,Sell
+2,Advanced Micro Devices ,04/13,97.74,AMD,Buy,Sell
+3,Bank of America ,04/13,38.82,BAC,Buy,Sell
+4,Delta Air Lines ,04/13,41.02,DAL,Buy,Sell
+5,Deere & Company ,04/13,427.29,DE,Buy,Sell
+6,Walt Disney ,04/13,132.35,DIS,Buy,Sell
+7,Physicians Realty Trust ,04/13,17.67,DOC,Buy,Sell
+8,Garmin ,04/13,113.07,GRMN,Buy,Sell
+9,Jack in the Box ,04/13,91.59,JACK,Sell,Buy
+10,JPMorgan Chase ,04/13,127.3,JPM,Buy,Sell
+11,KLA Corp ,04/13,336.52,KLAC,Buy,Sell
+12,Lam Research ,04/13,472.61,LRCX,Buy,Sell
+13,McDonald's ,04/13,251.33,MCD,Buy,Sell
+14,Mosaic ,04/13,75.05,MOS,Sell,Buy
+15,Micron Technology ,04/13,72.38,MU,Buy,Sell
+16,Rocket Companies ,04/13,9.6,RKT,Sell,Buy
+17,Raytheon Technologies ,04/13,103.37,RTX,Buy,Sell
+18,Skyworks Solutions ,04/13,122.37,SWKS,Buy,Sell
+19,Western Digital ,04/13,47.86,WDC,Buy,Sell
