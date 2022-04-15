@@ -1,0 +1,30 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,American Express ,04/14,181.16,AXP,Buy,Sell
+1,Bank of America ,04/14,37.57,BAC,Buy,Sell
+2,Clearfield ,04/14,59.02,CLFD,Buy,Sell
+3,Freeport-McMoRan ,04/14,49.19,FCX,Buy,Sell
+4,1-800-Flowers ,04/14,13.4,FLWS,Buy,Sell
+5,General Electric ,04/14,90.83,GE,Buy,Sell
+6,Green Brick Partners ,04/14,19.05,GRBK,Sell,Buy
+7,Halliburton ,04/14,40.76,HAL,Buy,Sell
+8,Howmet Aerospace ,04/14,35.48,HWM,Buy,Sell
+9,IBM ,04/14,126.56,IBM,Buy,Sell
+10,Innovative Industrial Pro ,04/14,169.68,IIPR,Buy,Sell
+11,Johnson Controls ,04/14,61.53,JCI,Buy,Sell
+12,Johnson & Johnson ,04/14,179.9,JNJ,Buy,Sell
+13,Carmax ,04/14,91.79,KMX,Sell,Buy
+14,Lithia Motors ,04/14,290.64,LAD,Buy,Sell
+15,Netflix ,04/14,341.13,NFLX,Sell,Buy
+16,Procter & Gamble ,04/14,158.57,PG,Buy,Sell
+17,ProLogis ,04/14,162.7,PLD,Buy,Sell
+18,Schlumberger ,04/14,43.25,SLB,Buy,Sell
+19,Virgin Galactic ,04/14,8.99,SPCE,Sell,Buy
+20,AT&T ,04/14,19.54,T,Sell,Buy
+21,T-Mobile US ,04/14,132.96,TMUS,Buy,Sell
+22,Travelers Companies ,04/14,184.24,TRV,Buy,Sell
+23,Tesla ,04/14,985.0,TSLA,Buy,Sell
+24,Textron ,04/14,68.65,TXT,Buy,Sell
+25,United Continental ,04/14,45.13,UAL,Buy,Sell
+26,United Rentals ,04/14,331.07,URI,Buy,Sell
+27,Verizon ,04/14,53.83,VZ,Buy,Sell
+28,Zoom Video Communications ,04/14,110.31,ZM,Buy,Sell
