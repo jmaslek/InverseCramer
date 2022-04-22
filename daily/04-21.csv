@@ -1,0 +1,30 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,American Airlines ,04/21,20.22,AAL,Buy,Sell
+1,Boeing ,04/21,181.02,BA,Sell,Buy
+2,Caterpillar ,04/21,232.57,CAT,Buy,Sell
+3,Salesforce ,04/21,177.23,CRM,Buy,Sell
+4,Carvana ,04/21,83.14,CVNA,Sell,Buy
+5,Clearwater Analytics ,04/21,17.98,CWAN,Buy,Sell
+6,Deere & Company ,04/21,424.36,DE,Buy,Sell
+7,Definitive Healthcare ,04/21,24.56,DH,Buy,Sell
+8,Dow ,04/21,69.51,DOW,Buy,Sell
+9,General Electric ,04/21,91.72,GE,Buy,Sell
+10,Huntington Bancshares ,04/21,14.1,HBAN,Buy,Sell
+11,Honeywell ,04/21,195.94,HON,Buy,Sell
+12,Carmax ,04/21,90.67,KMX,Sell,Buy
+13,Lululemon Athletica ,04/21,377.25,LULU,Buy,Sell
+14,Marvell Technology ,04/21,59.95,MRVL,Buy,Sell
+15,ServiceNow ,04/21,491.67,NOW,Buy,Sell
+16,Nucor ,04/21,175.59,NUE,Buy,Sell
+17,OptimizeRx ,04/21,36.26,OPRX,Sell,Buy
+18,Paycom Software ,04/21,303.89,PAYC,Buy,Sell
+19,Paychex ,04/21,138.32,PAYX,Buy,Sell
+20,Paylocity ,04/21,190.9,PCTY,Buy,Sell
+21,Pubmatic ,04/21,23.53,PUBM,Buy,Sell
+22,Raytheon Technologies ,04/21,101.73,RTX,Buy,Sell
+23,Solid Power ,04/21,8.06,SLDP,Sell,Buy
+24,SoFi Technologies ,04/21,6.6,SOFI,Sell,Buy
+25,Twilio ,04/21,124.84,TWLO,Sell,Buy
+26,United Continental ,04/21,50.85,UAL,Buy,Sell
+27,ZoomInfo Technologies ,04/21,51.25,ZI,Buy,Sell
+28,ZIM Integrated Shipping ,04/21,56.03,ZIM,Sell,Buy
