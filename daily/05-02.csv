@@ -1,0 +1,19 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,AeroVironment ,05/02,85.73,AVAV,Buy,Sell
+1,American Express ,05/02,171.62,AXP,Buy,Sell
+2,Best Buy ,05/02,93.81,BBY,Buy,Sell
+3,Edwards Lifesciences ,05/02,104.83,EW,Buy,Sell
+4,Five9 ,05/02,116.07,FIVN,Buy,Sell
+5,Goldman Sachs ,05/02,310.42,GS,Buy,Sell
+6,indie Semiconductor ,05/02,7.33,INDI,Sell,Buy
+7,Johnson & Johnson ,05/02,178.64,JNJ,Buy,Sell
+8,Coca-Cola ,05/02,63.44,KO,Buy,Sell
+9,Magna International ,05/02,60.77,MGA,Buy,Sell
+10,3M ,05/02,145.91,MMM,Buy,Sell
+11,Nike ,05/02,126.08,NKE,Buy,Sell
+12,NXP Semiconductors ,05/02,177.0,NXPI,Buy,Sell
+13,ON Semiconductor ,05/02,55.62,ON,Buy,Sell
+14,SoFi Technologies ,05/02,6.33,SOFI,Buy,Sell
+15,Tenneco ,05/02,16.82,TEN,Sell,Buy
+16,UnitedHealth Group ,05/02,501.15,UNH,Buy,Sell
+17,Visa ,05/02,211.53,V,Buy,Sell
