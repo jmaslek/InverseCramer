@@ -1,0 +1,14 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Airbnb ,05/03,145.0,ABNB,Buy,Sell
+1,AMC Entertainment ,05/03,15.51,AMC,Sell,Buy
+2,Corsair Gaming ,05/03,16.26,CRSR,Sell,Buy
+3,Corsair Gaming ,05/03,16.26,CRSR,Sell,Buy
+4,GameStop ,05/03,120.43,GME,Sell,Buy
+5,Lucid Group ,05/03,19.6,LCID,Sell,Buy
+6,Logitech International ,05/03,64.28,LOGI,Buy,Sell
+7,Rockwell Automation ,05/03,213.74,ROK,Buy,Sell
+8,U.S. Silica Holdings ,05/03,18.98,SLCA,Sell,Buy
+9,AT&T ,05/03,19.33,T,Buy,Sell
+10,Upstart ,05/03,85.46,UPST,Sell,Buy
+11,Wendy's ,05/03,19.22,WEN,Sell,Buy
+12,ZIM Integrated Shipping ,05/03,62.48,ZIM,Sell,Buy
