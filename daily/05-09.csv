@@ -1,0 +1,11 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,American Electric Power ,05/09,99.69,AEP,Buy,Sell
+1,Excelerate Energy ,05/09,23.8,EE,Buy,Sell
+2,Equitrans Midstream ,05/09,7.23,ETRN,Buy,Sell
+3,Golar LNG ,05/09,21.35,GLNG,Sell,Buy
+4,Ligand Pharmaceuticals ,05/09,81.24,LGND,Sell,Buy
+5,New York Community Bancor ,05/09,9.1,NYCB,Sell,Buy
+6,Papa Johns Pizza ,05/09,83.54,PZZA,Buy,Sell
+7,Banco Santander ,05/09,2.75,SAN,Sell,Buy
+8,Silicon Motion ,05/09,90.69,SIMO,Sell,Buy
+9,XPO Logistics ,05/09,50.87,XPO,Buy,Sell
