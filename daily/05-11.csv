@@ -1,0 +1,12 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,The Blackstone Group ,05/11,96.7,BX,Buy,Sell
+1,Cisco Systems ,05/11,48.65,CSCO,Buy,Sell
+2,Carvana ,05/11,30.0,CVNA,Sell,Buy
+3,GlobalFoundries ,05/11,49.03,GFS,Buy,Sell
+4,Kohlberg Kravis Roberts ,05/11,50.15,KKR,Sell,Buy
+5,Cheniere Energy ,05/11,132.61,LNG,Buy,Sell
+6,Netflix ,05/11,166.37,NFLX,Sell,Buy
+7,Roblox ,05/11,23.97,RBLX,Buy,Sell
+8,Rivian ,05/11,20.6,RIVN,Sell,Buy
+9,Unity Software ,05/11,30.3,U,Buy,Sell
+10,Upstart ,05/11,28.0,UPST,Sell,Buy
