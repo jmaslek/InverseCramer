@@ -1,0 +1,13 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Affirm ,05/12,18.04,AFRM,Buy,Sell
+1,Devon Energy ,05/12,64.61,DVN,Buy,Sell
+2,Diamondback Energy ,05/12,127.04,FANG,Buy,Sell
+3,Goodyear Tire & Rubber ,05/12,11.19,GT,Sell,Buy
+4,Huntington Ingalls ,05/12,203.77,HII,Buy,Sell
+5,Harley Davidson ,05/12,35.43,HOG,Sell,Buy
+6,Jumia Technologies ,05/12,5.13,JMIA,Sell,Buy
+7,Micron Technology ,05/12,67.71,MU,Buy,Sell
+8,Snowflake ,05/12,140.6,SNOW,Buy,Sell
+9,AT&T ,05/12,19.72,T,Sell,Buy
+10,Talos Energy ,05/12,17.6,TALO,Buy,Sell
+11,Molson Coors ,05/12,55.57,TAP,Buy,Sell
