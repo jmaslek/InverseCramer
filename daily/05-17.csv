@@ -1,0 +1,13 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,05/17,149.24,AAPL,Buy,Sell
+1,Advanced Micro Devices ,05/17,102.47,AMD,Buy,Sell
+2,Citigroup ,05/17,51.05,C,Buy,Sell
+3,Caterpillar ,05/17,213.09,CAT,Buy,Sell
+4,Walt Disney ,05/17,108.64,DIS,Buy,Sell
+5,DraftKings ,05/17,13.86,DKNG,Buy,Sell
+6,Fisker ,05/17,10.61,FSR,Sell,Buy
+7,GrowGeneration ,05/17,5.8,GRWG,Sell,Buy
+8,Home Depot ,05/17,300.95,HD,Buy,Sell
+9,Penn National Gaming ,05/17,30.92,PENN,Sell,Buy
+10,Tesla ,05/17,761.61,TSLA,Buy,Sell
+11,Take-Two Interactive ,05/17,123.08,TTWO,Buy,Sell
