@@ -1,0 +1,15 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Apple ,05/19,137.35,AAPL,Buy,Sell
+1,AeroVironment ,05/19,85.35,AVAV,Buy,Sell
+2,Alibaba ,05/19,87.69,BABA,Sell,Buy
+3,Constellation Energy ,05/19,57.23,CEG,Buy,Sell
+4,Costco ,05/19,422.93,COST,Buy,Sell
+5,DraftKings ,05/19,14.15,DKNG,Buy,Sell
+6,Lockheed Martin ,05/19,425.62,LMT,Buy,Sell
+7,Cloudflare ,05/19,58.0,NET,Buy,Sell
+8,Northrop Grumman ,05/19,448.5,NOC,Buy,Sell
+9,NVIDIA ,05/19,171.24,NVDA,Buy,Sell
+10,Palo Alto Networks ,05/19,436.37,PANW,Buy,Sell
+11,PLBY Group ,05/19,9.06,PLBY,Sell,Buy
+12,Raytheon Technologies ,05/19,90.25,RTX,Buy,Sell
+13,SoFi Technologies ,05/19,7.75,SOFI,Buy,Sell
