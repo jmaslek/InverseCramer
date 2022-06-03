@@ -1,0 +1,20 @@
+,Company,Date,Price,Symbol,Recommendation,InverseCramer
+0,Airbnb ,06/02,121.26,ABNB,Buy,Sell
+1,Allegiant Travel ,06/02,148.0,ALGT,Sell,Buy
+2,Best Buy ,06/02,81.26,BBY,Buy,Sell
+3,Salesforce ,06/02,188.4,CRM,Buy,Sell
+4,Cisco Systems ,06/02,45.79,CSCO,Buy,Sell
+5,Deere & Company ,06/02,361.08,DE,Buy,Sell
+6,Dow ,06/02,68.1,DOW,Buy,Sell
+7,Excelerate Energy ,06/02,29.37,EE,Buy,Sell
+8,Expedia ,06/02,134.19,EXPE,Buy,Sell
+9,Hertz Global Holdings ,06/02,20.19,HTZ,Buy,Sell
+10,indie Semiconductor ,06/02,7.85,INDI,Sell,Buy
+11,Joby Aviation ,06/02,6.09,JOBY,Sell,Buy
+12,Kosmos Energy ,06/02,8.29,KOS,Sell,Buy
+13,Microsoft ,06/02,274.58,MSFT,Buy,Sell
+14,NVIDIA ,06/02,195.92,NVDA,Buy,Sell
+15,Rocket Lab USA ,06/02,4.92,RKLB,Sell,Buy
+16,Raytheon Technologies ,06/02,96.24,RTX,Buy,Sell
+17,The Trade Desk ,06/02,54.61,TTD,Sell,Buy
+18,Upstart ,06/02,51.71,UPST,Buy,Sell
